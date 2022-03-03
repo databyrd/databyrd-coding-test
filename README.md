@@ -1,6 +1,6 @@
-# UI Coding Exercise #
+# Coding Exercise #
 
-The purpose of this exercise is to test your familiarity with full-stack development. You'll be building a small cocktail drinks listing app using frameworks of your choice and the Cocktaildb public API.
+The purpose of this exercise is to test your familiarity with full-stack development. You'll be building a small cocktail drinks listing app using Vue front end and PHP backend  and the Cocktaildb public API.
 
 ### Functional Requirements ###
 
@@ -14,8 +14,7 @@ The purpose of this exercise is to test your familiarity with full-stack develop
 
 ### System Requirements ###
 
-* The client-side application can be written in any Javascript framework
-* You may use any additional libraries that you see fit
+* The client-side application must be written in Vue.js framework. Feel free to use any 3rd party libraries such as Vuetify.
 * UI should be presentable(Be creative)
 
 
@@ -47,3 +46,7 @@ https://www.thecocktaildb.com/api/json/v1/1/filter.php?g=~~Cocktail_glass~~
 * Be sure to document your code, especially cases where you might have made a different choice in a 'real' application
 * API page: https://www.thecocktaildb.com/api.php 
 * Upon completion, be sure that your code is accessible through a git repo, and provide the link to that repo to OliSystems
+
+### Bonus Points ###
+* Inluding any Redis or caching systems.
+
